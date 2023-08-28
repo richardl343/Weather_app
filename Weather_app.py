@@ -1,3 +1,5 @@
+pip install geopy timezonefinder pytz
+pip install requests
 from tkinter import *
 import tkinter as tk
 from geopy.geocoders import Nominatim
